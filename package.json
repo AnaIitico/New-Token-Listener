@@ -1,0 +1,16 @@
+{
+  "name": "tokenlistener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tokenListener.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ethers": "^5.4.7",
+    "web3": "^1.6.0"
+  }
+}
